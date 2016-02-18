@@ -1,0 +1,8 @@
+{
+  "name": "random-line",
+  "version": "1.0.0",
+  "description": "Returns random line from a file",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT"
+}
